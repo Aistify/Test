@@ -1,0 +1,594 @@
+{
+  "stratagems": [
+    {
+      "name": "_Blank",
+      "keys": [],
+      "keyCount": 0
+    },
+    {
+      "name": "_UpArrow",
+      "keys": [],
+      "keyCount": 0
+    },
+    {
+      "name": "_DownArrow",
+      "keys": [],
+      "keyCount": 0
+    },
+    {
+      "name": "_LeftArrow",
+      "keys": [],
+      "keyCount": 0
+    },
+    {
+      "name": "_RightArrow",
+      "keys": [],
+      "keyCount": 0
+    },
+    {
+      "name": "_LIFT_850_Jump_Pack",
+      "keys": [
+        "DOWN",
+        "UP",
+        "UP",
+        "DOWN",
+        "UP"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_B_1_Supply_Pack",
+      "keys": [
+        "DOWN",
+        "LEFT",
+        "DOWN",
+        "UP",
+        "UP",
+        "DOWN"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_AX_LAS_5_Guard_Dog_Rover",
+      "keys": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "RIGHT"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_SH_20_Ballistic_Shield_Backpack",
+      "keys": [
+        "DOWN",
+        "LEFT",
+        "DOWN",
+        "DOWN",
+        "UP",
+        "LEFT"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_SH_32_Shield_Generator_Pack",
+      "keys": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_AX_AR_23_Guard_Dog",
+      "keys": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_MG_43_Machine_Gun",
+      "keys": [
+        "DOWN",
+        "LEFT",
+        "DOWN",
+        "UP",
+        "RIGHT"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_APW_1_Anti_Materiel_Rifle",
+      "keys": [
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "UP",
+        "DOWN"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_M_105_Stalwart",
+      "keys": [
+        "DOWN",
+        "LEFT",
+        "DOWN",
+        "UP",
+        "UP",
+        "LEFT"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_EAT_17_Expendable_Anti_tank",
+      "keys": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "UP",
+        "RIGHT",
+        "DOWN"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_GR_8_Recoilless_Rifle",
+      "keys": [
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "LEFT"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_FLAM_40_Flamethrower",
+      "keys": [
+        "DOWN",
+        "LEFT",
+        "UP",
+        "DOWN",
+        "UP"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_AC_8_Autocannon",
+      "keys": [
+        "DOWN",
+        "LEFT",
+        "DOWN",
+        "UP",
+        "UP",
+        "RIGHT"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_RS_422_Railgun",
+      "keys": [
+        "DOWN",
+        "RIGHT",
+        "DOWN",
+        "UP",
+        "LEFT",
+        "RIGHT"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_FAF_14_SPEAR_Launcher",
+      "keys": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "DOWN",
+        "DOWN"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_GL_21_Grenade_Launcher",
+      "keys": [
+        "DOWN",
+        "LEFT",
+        "UP",
+        "LEFT",
+        "DOWN"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_LAS_98_Laser_Cannon",
+      "keys": [
+        "DOWN",
+        "LEFT",
+        "DOWN",
+        "UP",
+        "LEFT"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_ARC_3_Arc_Thrower",
+      "keys": [
+        "DOWN",
+        "RIGHT",
+        "DOWN",
+        "UP",
+        "LEFT",
+        "LEFT"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_Reinforce",
+      "keys": [
+        "UP",
+        "DOWN",
+        "RIGHT",
+        "LEFT",
+        "UP"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_SOS_Beacon",
+      "keys": [
+        "UP",
+        "DOWN",
+        "RIGHT",
+        "UP"
+      ],
+      "keyCount": 4
+    },
+    {
+      "name": "_Resupply",
+      "keys": [
+        "DOWN",
+        "DOWN",
+        "UP",
+        "RIGHT"
+      ],
+      "keyCount": 4
+    },
+    {
+      "name": "_NUX_223_Hellbomb",
+      "keys": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "UP"
+      ],
+      "keyCount": 8
+    },
+    {
+      "name": "_E_MG_101_HMG_Emplacement",
+      "keys": [
+        "DOWN",
+        "UP",
+        "LEFT",
+        "RIGHT",
+        "RIGHT",
+        "LEFT"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_FX_12_Shield_Generator_Relay",
+      "keys": [
+        "DOWN",
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "LEFT",
+        "RIGHT"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_A_ARC_3_Tesla_Tower",
+      "keys": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "RIGHT"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_MD_6_Anti_Personnel_Minefield",
+      "keys": [
+        "DOWN",
+        "LEFT",
+        "UP",
+        "RIGHT"
+      ],
+      "keyCount": 4
+    },
+    {
+      "name": "_MD_I4_Incendiary_Mines",
+      "keys": [
+        "DOWN",
+        "LEFT",
+        "LEFT",
+        "DOWN"
+      ],
+      "keyCount": 4
+    },
+    {
+      "name": "_A_MG_43_Machine_Gun_Sentry",
+      "keys": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "UP"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_A_G_16_Gatling_Sentry",
+      "keys": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "LEFT"
+      ],
+      "keyCount": 4
+    },
+    {
+      "name": "_A_M_12_Mortar_Sentry",
+      "keys": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "DOWN"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_A_AC_8_Autocannon_Sentry",
+      "keys": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "UP",
+        "LEFT",
+        "UP"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_A_MLS_4X_Rocket_Sentry",
+      "keys": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "RIGHT",
+        "LEFT"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_A_M_23_EMS_Mortar_Sentry",
+      "keys": [
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "RIGHT"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_Orbital_Gatling_Barrage",
+      "keys": [
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "UP",
+        "UP"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_Orbital_Airburst_Strike",
+      "keys": [
+        "RIGHT",
+        "RIGHT",
+        "RIGHT"
+      ],
+      "keyCount": 3
+    },
+    {
+      "name": "_Orbital_120MM_HE_Barrage",
+      "keys": [
+        "RIGHT",
+        "RIGHT",
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "DOWN"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_Orbital_380MM_HE_Barrage",
+      "keys": [
+        "RIGHT",
+        "DOWN",
+        "UP",
+        "UP",
+        "LEFT",
+        "DOWN",
+        "DOWN"
+      ],
+      "keyCount": 7
+    },
+    {
+      "name": "_Orbital_Walking_Barrage",
+      "keys": [
+        "RIGHT",
+        "DOWN",
+        "RIGHT",
+        "DOWN",
+        "RIGHT",
+        "DOWN"
+      ],
+      "keyCount": 6
+    },
+    {
+      "name": "_Orbital_Laser",
+      "keys": [
+        "RIGHT",
+        "DOWN",
+        "UP",
+        "RIGHT",
+        "DOWN"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_Orbital_Railcannon_Strike",
+      "keys": [
+        "RIGHT",
+        "UP",
+        "DOWN",
+        "DOWN",
+        "RIGHT"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_Orbital_Precision_Strike",
+      "keys": [
+        "RIGHT",
+        "RIGHT",
+        "UP"
+      ],
+      "keyCount": 3
+    },
+    {
+      "name": "_Orbital_Gas_Strike",
+      "keys": [
+        "RIGHT",
+        "RIGHT",
+        "DOWN",
+        "RIGHT"
+      ],
+      "keyCount": 4
+    },
+    {
+      "name": "_Orbital_EMS_Strike",
+      "keys": [
+        "RIGHT",
+        "RIGHT",
+        "LEFT",
+        "DOWN"
+      ],
+      "keyCount": 4
+    },
+    {
+      "name": "_Orbital_Smoke_Strike",
+      "keys": [
+        "RIGHT",
+        "RIGHT",
+        "DOWN",
+        "UP"
+      ],
+      "keyCount": 4
+    },
+    {
+      "name": "_Eagle_Strafing_Run",
+      "keys": [
+        "UP",
+        "RIGHT",
+        "RIGHT"
+      ],
+      "keyCount": 3
+    },
+    {
+      "name": "_Eagle_Airstrike",
+      "keys": [
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "RIGHT"
+      ],
+      "keyCount": 4
+    },
+    {
+      "name": "_Eagle_Cluster_Bomb",
+      "keys": [
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "DOWN",
+        "RIGHT"
+      ],
+      "keyCount": 5
+    },
+    {
+      "name": "_Eagle_Napalm_Airstrike",
+      "keys": [
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "UP"
+      ],
+      "keyCount": 4
+    },
+    {
+      "name": "_Eagle_Smoke_Strike",
+      "keys": [
+        "UP",
+        "RIGHT",
+        "UP",
+        "DOWN"
+      ],
+      "keyCount": 4
+    },
+    {
+      "name": "_Eagle_110MM_Rocket_Pods",
+      "keys": [
+        "UP",
+        "RIGHT",
+        "UP",
+        "LEFT"
+      ],
+      "keyCount": 4
+    },
+    {
+      "name": "_Eagle_500kg_Bomb",
+      "keys": [
+        "UP",
+        "RIGHT",
+        "DOWN",
+        "DOWN",
+        "DOWN"
+      ],
+      "keyCount": 5
+    }
+  ],
+  "rows": 8
+}
